@@ -15,7 +15,7 @@ In order to complete these tasks you will need your newly aquired knowledge of c
 
 ### Task 1: Set up Project
 
-Using VSCode and Command Line:
+Using VSCode and Command Line: 
 
 
 1. Fork the repo
